@@ -13,7 +13,7 @@ import time
 # 🔑 PERMANENT API KEY SETUP
 # ==========================================
 # Niche quotes ke andar apni Gemini API Key daalein
-API_KEY = "AQ.Ab8RN6JO5UASdONuZYdC4BpV0IdaH4Xd5GFVsthzIMXjBMS3rQ" 
+API_KEY = "" 
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="QSS Global - SmartCard Pro", page_icon="📇", layout="wide", initial_sidebar_state="expanded")
